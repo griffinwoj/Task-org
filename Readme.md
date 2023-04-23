@@ -22,7 +22,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Usage Instructions
 
-1. To access the next link, click here:
+1. To access the next link, click here: https://task-org.herokuapp.com/
 2. To launch the note taker, click "Get Started".
 3. Fill out the "title" and "text" fields with text. 
 4. To save the note, click the save symbol (top right).
@@ -30,8 +30,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 6. In addition, you can remove saved notes by clicking the trash button.
 
 
-## Deployed Application Link:
-
+## Deployed Application:
+https://task-org.herokuapp.com/
 
 ## Installation Process
 
