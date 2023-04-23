@@ -22,20 +22,19 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Usage Instructions
 
-1. Click here to open the following link:
-2. Click "Get Started" to open the note taker.
-3. Enter text into the 'title' and 'text' fields 
-4. Click the save icon (top right) to save the note.
-5. Click the + icon (top right) to add another note.
-6. Additional: Click the trash icon to delete saved notes.
+1. To access the next link, click here:
+2. To launch the note taker, click "Get Started".
+3. Fill out the "title" and "text" fields with text. 
+4. To save the note, click the save symbol (top right).
+5. To add a new note, click the plus symbol in the top right corner.
+6. In addition, you can remove saved notes by clicking the trash button.
+
 
 ## Deployed Application Link:
 
 
 ## Installation Process
-1. Clone the Repository from GitHub 
-2. (or) Download Zip Folder from Repository from GitHub
-3. Open the cloned (or downloaded) repository in any source code editor.
-4. Open the integrated terminal for the document and complete the respective installation guides provided in "Built With" to ensure the cloned documentation will operate.
 
-## License 
+
+## License and Credits
+This application was created using source code provided by edX modified by Griffin Wojtowicz with coaching and debugging by wesley Clements.
