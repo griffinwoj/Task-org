@@ -46,7 +46,11 @@ The Note Taker app is the ideal option for anyone who wants to keep their though
 https://task-org.herokuapp.com/
 
 ## Installation Process
-
+- clone the repository from github
+- npm install
+- npm start
+- open localhost:3001 in your browser
+- test the application, and enjoy!
 
 ## License and Credits
 This application was created using source code provided by edX modified by Griffin Wojtowicz with coaching and debugging by wesley Clements.
